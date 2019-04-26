@@ -1,0 +1,7 @@
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\obj\Debug\System.ReflectionDetail.csprojAssemblyReference.cache
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\obj\Debug\System.ReflectionDetail.csproj.CoreCompileInputs.cache
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\bin\Debug\System.ReflectionDetail.exe.config
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\bin\Debug\System.ReflectionDetail.exe
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\bin\Debug\System.ReflectionDetail.pdb
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\obj\Debug\System.ReflectionDetail.exe
+D:\学习\System.ReflectionDetail\System.ReflectionDetail\obj\Debug\System.ReflectionDetail.pdb
